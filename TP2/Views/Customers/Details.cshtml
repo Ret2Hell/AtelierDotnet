@@ -1,0 +1,15 @@
+﻿@model TP2.Models.Customer
+
+@{
+    ViewBag.Title = "Customer Details";
+}
+
+<h2>Customer Details</h2>
+
+<div>
+    <h3>@Model.Name</h3>
+    <p><strong>Membership Fee:</strong> @Model.MembershipType?.SignUpFee</p>
+    <p><strong>Membership Discount:</strong> @Model.MembershipType?.DiscountRate</p>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
