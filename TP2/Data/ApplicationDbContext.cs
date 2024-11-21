@@ -16,11 +16,11 @@ namespace TP2.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            var membershipJson = File.ReadAllText("C:\\Users\\ASUS\\RiderProjects\\TP2\\TP2\\Data\\membership_data.json");
+            var membershipJson = File.ReadAllText("membership_data.json");
             var membershipData = JsonConvert.DeserializeObject<List<MembershipType>>(membershipJson);
             modelBuilder.Entity<MembershipType>().HasData(membershipData!);
             
-            var genreJson = File.ReadAllText("C:\\Users\\ASUS\\RiderProjects\\TP2\\TP2\\Data\\genre_data.json");
+            var genreJson = File.ReadAllText("genre_data.json");
             var genreData = JsonConvert.DeserializeObject<List<Genre>>(genreJson);
             modelBuilder.Entity<Genre>().HasData(genreData!);
             // Movie to Genre relationship

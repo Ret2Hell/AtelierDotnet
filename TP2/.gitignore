@@ -1,3 +1,7 @@
 ﻿# Exclude appsettings files
 appsettings.json
 appsettings.Development.json
+
+# Exclude migration files
+Migrations/
+
