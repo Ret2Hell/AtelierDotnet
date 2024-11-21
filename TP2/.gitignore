@@ -1,2 +1,3 @@
-﻿appsettings.json
+﻿# Exclude appsettings files
+appsettings.json
 appsettings.Development.json
