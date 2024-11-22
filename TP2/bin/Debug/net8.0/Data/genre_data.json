@@ -3,24 +3,24 @@
     "Id": "2a5b7ec1-8bce-488c-876d-5e11eb573b1f",
     "Name": "Action"
   },
-    {
-        "Id": "3b8c6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
-        "Name": "Adventure"
-    },
-    {
-        "Id": "4c9b6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
-        "Name": "Comedy"
-    },
-    {
-        "Id": "5d9b6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
-        "Name": "Crime"
-    },
-    {
-        "Id": "6e9b6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
-        "Name": "Drama"
-    },
-    {
-        "Id": "7f9b6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
-        "Name": "Fantasy"
-    }
+  {
+    "Id": "3b8c6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
+    "Name": "Adventure"
+  },
+  {
+    "Id": "4c9b6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
+    "Name": "Comedy"
+  },
+  {
+    "Id": "5d9b6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
+    "Name": "Crime"
+  },
+  {
+    "Id": "6e9b6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
+    "Name": "Drama"
+  },
+  {
+    "Id": "7f9b6f4c-4b7b-4f4b-8b5c-5e11eb573b1f",
+    "Name": "Fantasy"
+  }
 ]

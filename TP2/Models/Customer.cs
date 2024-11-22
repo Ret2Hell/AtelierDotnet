@@ -3,8 +3,8 @@
 public class Customer
 {
     public int Id { get; set; }
-    public string Name { get; set; }
-        
+    public required string Name { get; set; }
+
     // Foreign key to MembershipType
     public Guid MembershipTypeId { get; set; }
 

@@ -1,4 +1,8 @@
-﻿@model IEnumerable<TP2.Models.Movie>
+﻿@{
+    ViewBag.Title = "Movies Page";
+}
+
+@model IEnumerable<Movie>
 
 <h2>Movies</h2>
 <a asp-action="Create" class="btn btn-primary">Create New Movie</a>
@@ -19,7 +23,7 @@
             <td>@movie.Name</td>
             <td>@movie.Genre?.Name</td>
             <td>@movie.AddedDate.ToString("yyyy-MM-dd")</td>
-            <td><img src="@movie.Photo" alt="Movie Photo" style="width:50px; height:auto;" /></td>
+            <td><img src="@movie.Photo" alt="Movie Photo" style="width:50px; height:auto;"/></td>
             <td>
                 <a asp-action="Edit" asp-route-id="@movie.Id">Edit</a> |
                 <a asp-action="Delete" asp-route-id="@movie.Id">Delete</a>

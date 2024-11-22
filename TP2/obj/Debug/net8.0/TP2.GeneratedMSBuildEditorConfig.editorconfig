@@ -18,52 +18,52 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ASUS\RiderProjects\TP2\TP2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customers/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customers/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customers/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customers/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customers/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXGluZGV4LmNzaHRtbA==
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Customer/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Movie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Movies/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Movie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Movies/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Movie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Movies/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Movies/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXGluZGV4LmNzaHRtbA==
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Movie/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Shared/_Nav_Bar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZfQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/RiderProjects/TP2/TP2/Views/Shared/_ValidationScriptsPartial.cshtml]

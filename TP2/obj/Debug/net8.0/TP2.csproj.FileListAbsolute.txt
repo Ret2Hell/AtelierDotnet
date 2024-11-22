@@ -43,3 +43,4 @@ C:\Users\ASUS\RiderProjects\TP2\TP2\obj\Debug\net8.0\ref\TP2.dll
 C:\Users\ASUS\RiderProjects\TP2\TP2\bin\Debug\net8.0\Data\membership_data.json
 C:\Users\ASUS\RiderProjects\TP2\TP2\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\ASUS\RiderProjects\TP2\TP2\bin\Debug\net8.0\Data\genre_data.json
+C:\Users\ASUS\RiderProjects\TP2\TP2\obj\Debug\net8.0\TP2.sourcelink.json

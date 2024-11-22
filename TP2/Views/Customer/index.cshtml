@@ -1,4 +1,8 @@
-﻿@model IEnumerable<TP2.Models.Customer>
+﻿@{
+    ViewBag.Title = "Customers Page";
+}
+
+@model IEnumerable<Customer>
 
 <h2>Customers</h2>
 <a asp-action="Create" class="btn btn-primary">Create New Customer</a>
